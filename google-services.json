@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006693044927",
+    "project_id": "whatapp-a0d58",
+    "storage_bucket": "whatapp-a0d58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006693044927:android:68f9de795936ebf4f42c0a",
+        "android_client_info": {
+          "package_name": "Com.calculator.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkL4T0AsnXltXiLXKeeyuFXzkzBwwHyY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
